@@ -27,5 +27,6 @@ ___**This project is developed as a university requirement for the course CCDATR
 - **[Aisle](https://github.com/inthehallways)** - Programmer
 - **[Aki](https://github.com/private-staticvoid)** - Programmer
 - **[Ronald](https://github.com/ararrrr)** - Documenter
+<br>
 
 > NOTE: Offline Chess Game is a school project developed purely for educational purposes. All code, designs, and features were built for learning and demonstration.
