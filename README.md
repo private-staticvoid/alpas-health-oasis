@@ -1,4 +1,4 @@
-# 🌿🏥 ALPAS Health Oasis: Doctor’s Appointment Booking System
+# 🌿🏥  ALPAS Health Oasis: Doctor’s Appointment Booking System
 
 ALPAS Health Oasis is a Java-based doctor’s appointment booking system. It is designed to streamline reproductive health (RH) service scheduling, reduce waiting times, and encourage individuals—especially the youth—to take charge of their reproductive well-being. 
 
